@@ -51,7 +51,7 @@ body{
 }
 .container {
     width:100%;
-    padding:o 15px;
+    padding: 0px 15px;
     margin:0 auto;
 }
 
@@ -120,7 +120,7 @@ body{
     position:absolute;
     background:var(--heaven);
     z-index:2;
-    transition:all .3s ease;
+    transition:all .2s ease;
     -webkit-transition:all .3s ease;
     -moz-transition:all .3s ease;
     -ms-transition:all .3s ease;
